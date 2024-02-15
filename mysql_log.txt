@@ -1,0 +1,10 @@
+[13:47:12 12/31/23] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'beta.optiklink.com' (0)
+[13:47:12 12/31/23] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'beta.optiklink.com' (0)
+[13:47:12 12/31/23] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'beta.optiklink.com' (0)
+[13:47:12 12/31/23] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'beta.optiklink.com' (0)
+[21:08:52 01/05/24] [ERROR] CMySQLConnection::Connect - (error #2061) Authentication plugin 'sha256_password' reported error: Authentication requires SSL encryption
+[21:08:52 01/05/24] [ERROR] CMySQLConnection::Connect - (error #2061) Authentication plugin 'sha256_password' reported error: Authentication requires SSL encryption
+[21:08:52 01/05/24] [ERROR] CMySQLConnection::Connect - (error #2061) Authentication plugin 'sha256_password' reported error: Authentication requires SSL encryption
+[19:17:38 02/14/24] [ERROR] cache_get_field_content_int - invalid datatype
+[19:20:10 02/14/24] [ERROR] cache_get_field_content_int - invalid datatype
+[19:21:00 02/14/24] [ERROR] cache_get_field_content_int - invalid datatype
